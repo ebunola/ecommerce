@@ -1,7 +1,10 @@
+import React from 'react'
+import { Home } from './pages/Home'
 
-
-function App() {
-  return <div>HomePage</div>
+const App = () => {
+  return (
+   <Home />
+  )
 }
 
-export default App;
+export default App
