@@ -1,4 +1,4 @@
-import PlantCategoryImg from './assets';
+import PlantCategoryImg from './assets/cottonbro.jpg'
 
 // Data for the Categories page 
 export const categories = [{
